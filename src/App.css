@@ -1,0 +1,20 @@
+h1{
+    font-weight: 700;
+    font-size: 45px;
+    margin-bottom: 30px;
+    margin: 10px;
+}
+
+input{
+    width: 100%;
+}
+
+.todo-container{
+    text-align: left;
+}
+
+.mrow{
+    margin: 7px 3px;
+}
+
+
